@@ -1,0 +1,34 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.31",
+  "base_commit_sha": "8b850c845d617f838a484313faa87ae5d0d0dfa9",
+  "prompts": {
+    "467b3e8e6ff026b2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9627e47d-1065-4798-a50b-beedb01ca5b4",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "Roberto Serafin <roberto.serafin@lansweeper.com>",
+      "messages": [],
+      "total_additions": 155,
+      "total_deletions": 0,
+      "accepted_lines": 155,
+      "overriden_lines": 0
+    },
+    "e86bc49a42f61a6d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "790563c1-9b75-4f86-97f6-d2f44edce1a9",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "Roberto Serafin <roberto.serafin@lansweeper.com>",
+      "messages": [],
+      "total_additions": 81,
+      "total_deletions": 14,
+      "accepted_lines": 70,
+      "overriden_lines": 0
+    }
+  }
+}
