@@ -1,0 +1,25 @@
+fe/fe-core/src/test/java/org/apache/doris/datasource/property/metastore/IcebergRestPropertiesTest.java
+  f096e3cd719e3135 292-295,302,305-310,314-316,322,325-330,427,431-432,438,443-490
+fe/fe-core/src/main/java/org/apache/doris/datasource/property/metastore/IcebergRestProperties.java
+  f096e3cd719e3135 26,178,208,335,339-344
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.34",
+  "base_commit_sha": "29c63dafee5c2cf36c04ddcacf2bf8705435449d",
+  "prompts": {
+    "f096e3cd719e3135": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "102f0656-8867-4d8c-9c39-da6bc63cad8b",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "Roberto Serafin <roberto.serafin@lansweeper.com>",
+      "messages": [],
+      "total_additions": 84,
+      "total_deletions": 27,
+      "accepted_lines": 84,
+      "overriden_lines": 0
+    }
+  }
+}
